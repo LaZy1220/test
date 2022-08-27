@@ -1,8 +1,7 @@
-//Неуверен что я понял смысл, но вроде всё как было изначально)
-body {
+* {
+  margin: 0px;
 }
 body {
-  margin: 0px;
   background-color: cornsilk;
   font-family: sans-serif;
 }
